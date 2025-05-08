@@ -108,7 +108,7 @@ If any value if not present in the router we will return N/A.
 }
 ```
 
-## Tokens are being cached for bypassing authentication flow for each subsequent request
+> Tokens are being cached for bypassing authentication flow for each subsequent request
 
 ## Error Handling
 
